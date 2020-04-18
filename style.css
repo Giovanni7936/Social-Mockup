@@ -1,0 +1,130 @@
+.big-blue-header{
+border: 1px solid black;
+height: 500px;
+width: 850px;
+background-color: #4b5b9e;
+margin: 0 auto;
+border-radius: 2px;
+}
+.like-it{
+  font-size: 16px;
+  position: relative;
+  left: 534px;
+  top: 124px;
+}
+.follow{
+    font-size: 18px;
+    position: relative;
+    left: 537px;
+    top: 123px;
+    
+}
+.message{
+font-size: 16px;
+position: relative;
+left: 533px;
+top: 124px;
+}
+.dot{
+    position: relative;
+    left:528px;
+    top: 123px;
+    font-size: 18px;
+    width: 5%;
+    
+}
+.side-photo{
+    position: relative;
+    left: 230px;
+    bottom: -385px;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Times New Roman';
+    
+}
+.navbar{
+border: 1px black solid;
+width: 850px;
+height: 65px;
+margin: 0 auto;
+background-color: white;
+border-radius: 4px;
+
+}
+.web{
+    position: relative;
+    left: 230px;
+    bottom: -363px;
+    color: white;
+    font-size:larger;
+    font-family: 'times New Roman';
+}
+
+.button-list li{
+    
+    float: none;
+    display: inline;
+    position: relative;
+    left: 200px;
+    list-style-type: none;
+    padding: 10px;
+    text-align: center;
+    left: 184px;
+    font-size: larger;
+    border-right: 1px black solid;
+    box-shadow: 5px;
+    
+
+}
+
+.profile-photo{
+    border: 1px solid black;
+    background-color: #4b5b9e;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 210px;
+    left: 20px;
+    border-radius: 2%;
+}
+.columns{
+width: 850px;
+margin: 0 auto;
+}
+.columnone{
+    border: 2px black solid;
+    width: 328px;
+    height: 300px;
+    float: left;
+    border-radius: 2px;
+    
+}
+.p{
+    border-top: 1px black solid;
+}
+.you{
+    position: relative;
+    bottom: -150px;
+    border-top: 1px black solid;
+}
+.columntwo{
+    border: 2px black solid;
+    width: 500px;
+    height: 300px;
+    float: right; 
+    border-radius: 2px;
+    background-color: #4b5b9e;
+}
+.p2{
+    border-bottom: 1px black solid;
+    background-color: white;
+    font-size: 17px;
+    
+    
+}
+.p3{
+    position: relative;
+    bottom: -220px;
+    border-top: 1px black solid;
+    background-color: white;
+}
